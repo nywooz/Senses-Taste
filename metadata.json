@@ -1,0 +1,6 @@
+{
+  "name": "FlavorAtlas",
+  "description": "An interactive 3D culinary globe for Day 23 of #30DayMapChallenge: Senses: Taste, visualizing global flavor profiles and regional signature dishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
